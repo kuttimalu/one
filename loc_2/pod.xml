@@ -1,0 +1,5 @@
+<tns:logger name="LOG1"   user="epappuser"            password=${Code}
+      <tns:logger name="ORACLE" userCipher="kj2h3dfkgf" passwordCipher="la3n67eaer"/>
+      <tns:file   path="/home/emma/trust.jks"           password=${Code}
+      <tns:file   path="/var/tmp/keystore.jks"          passwordCipher="e71vKCg2pf"/>
+
