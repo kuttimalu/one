@@ -1,3 +1,4 @@
+#!/bin/bash
 #This will work on the assumption that the user will enter 2  Locations where an xml file, $XML_FILE exists in each loaction and will replace the password of the user $USERNAME 
 #Replace XML_FILE and USER_NAME with the your environment's values .
 
