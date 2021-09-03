@@ -15,3 +15,4 @@ export ${Code}
 grep ${USER_NAME} ${XML_FILE} | sed -e "s/password=[^[:space:]]*/password="${Code}" /g"
 fi
 done
+echo "Hello"
